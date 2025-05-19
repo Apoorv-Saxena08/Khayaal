@@ -1,4 +1,4 @@
-# 🍱 Khayaal — Nourishing with Care
+# 🍱 Khayaal — A Food Redistribution WebApp
 
 Welcome to **Khayaal** — a web platform dedicated to redistributing excess food to those in need. Our mission is to fight hunger, reduce food waste, and create a more compassionate community. 🌍❤️
 
