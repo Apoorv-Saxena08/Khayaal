@@ -1,0 +1,25 @@
+{
+  "name": "khayaal",
+  "version": "1.0.0",
+  "description": "Welcome to **Khayaal** — a web platform dedicated to redistributing excess food to those in need. Our mission is to fight hunger, reduce food waste, and create a more compassionate community. 🌍❤️",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apoorv-Saxena08/Khayaal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apoorv-Saxena08/Khayaal/issues"
+  },
+  "homepage": "https://github.com/Apoorv-Saxena08/Khayaal#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0"
+  }
+}
