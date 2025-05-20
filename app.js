@@ -6,7 +6,9 @@ const mongoose=require("mongoose");
 app.get("/", (req, res) => {
     res.send("Welcome to Driftly!");
 });
+
 const port = 3000;
 app.listen(port,()=>{
     console.log("Server is running on port 3000");
 });
+
